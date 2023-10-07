@@ -76,8 +76,7 @@ li{
   z-index: 1;
   top: 778px;
   left: 220px;
-  color: var(--color-gray);
-  cursor: pointer !important;
+  color: var(--color-gray);  
 }
 .landpage1Inner {
   position: absolute;
