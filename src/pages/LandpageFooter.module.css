@@ -125,3 +125,21 @@
   color: var(--color-white);
   font-family: var(--font-kollektif);
 }
+
+.navMenu{
+  display: flex;
+  flex-direction: row;
+  margin-left: -4rem;
+  margin-top: 5px;
+}
+
+.navMenu li{
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  padding-right: 3rem;
+  border-right: 3px solid #fff;
+}
+
+.navMenu li:nth-last-child(1){  
+  border-right: 0px;
+}
