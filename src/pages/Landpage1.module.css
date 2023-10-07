@@ -1,0 +1,125 @@
+.capturaDePantalla20231006 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.anInnovativeAnd {
+  margin: 0;
+}
+.anInnovativeAndContainer {
+  position: absolute;
+  top: 644px;
+  left: 165px;
+  font-size: var(--font-size-14xl);
+}
+.discoverNeighborwattEnergyContainer {
+  position: absolute;
+  top: 460px;
+  left: 165px;
+  font-size: 60px;
+  color: var(--color-white);
+  -webkit-text-stroke: 0.6px #fff;
+}
+.a2a9b3C71e4bf0B2961c87fb00Icon {
+  position: absolute;
+  top: 243px;
+  left: 917px;
+  width: 1287px;
+  height: 837px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.landpage1Child {
+  position: absolute;
+  top: -569.54px;
+  left: 170.56px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 26, 26, 0.2) 2.6%,
+    rgba(135, 255, 210, 0.2) 53.13%,
+    rgba(228, 255, 122, 0.2)
+  );
+  filter: blur(300px);
+  width: 777.17px;
+  height: 792.64px;
+  transform: rotate(62.35deg);
+  transform-origin: 0 0;
+}
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1280px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.landpage1Item {
+  position: absolute;
+  top: 764px;
+  left: 165px;
+  border-radius: 25px;
+  background: linear-gradient(-84.51deg, #8af7ce, #e4ff7a);
+  width: 219px;
+  height: 57px;
+}
+.goGreen {
+  position: absolute;
+  top: 778px;
+  left: 220px;
+  color: var(--color-gray);
+}
+.landpage1Inner {
+  position: absolute;
+  top: 64px;
+  left: 960px;
+  border-radius: 49px;
+  background-color: rgba(50, 54, 48, 0.3);
+  width: 848px;
+  height: 88px;
+}
+.homeFaqs {
+  position: absolute;
+  top: 93px;
+  left: 1011px;
+  color: #f5f5f5;
+}
+.logoNeighborwatt11 {
+  position: absolute;
+  top: 76px;
+  left: 140px;
+  width: 268px;
+  height: 152px;
+  object-fit: cover;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 571px;
+  left: 341.15px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 26, 26, 0.2) 2.6%,
+    rgba(135, 255, 210, 0.2) 53.13%,
+    rgba(228, 255, 122, 0.2)
+  );
+  filter: blur(300px);
+  width: 777.17px;
+  height: 792.64px;
+  transform: rotate(62.35deg);
+  transform-origin: 0 0;
+}
+.landpage1 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-kollektif);
+}

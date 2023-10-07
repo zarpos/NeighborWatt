@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Kollektif:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-kollektif: Kollektif;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-14xl: 33px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-gray: #1a1a1a;
+  --color-white: #fff;
+  --color-darkgray: #9f9f9f;
+  --color-aquamarine: rgba(135, 255, 210, 0.08);
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+}

@@ -1,0 +1,142 @@
+.capturaDePantalla20231006,
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.image2Icon {
+  height: 1280px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.landpage2Child,
+.landpage2Item {
+  position: absolute;
+  top: 361px;
+  left: 247px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-aquamarine);
+  box-shadow: 16px -10px 44px rgba(255, 255, 255, 0.2) inset;
+  filter: blur(4px);
+  width: 465px;
+  height: 481px;
+}
+.landpage2Item {
+  left: 727px;
+  box-shadow: 0-10px 44px -4px rgba(255, 255, 255, 0.2) inset;
+}
+.landpage2Inner,
+.transparency {
+  position: absolute;
+  top: 572px;
+  left: 800px;
+}
+.landpage2Inner {
+  top: 361px;
+  left: 1207px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-aquamarine);
+  box-shadow: -12px 2px 44px rgba(255, 255, 255, 0.2) inset;
+  filter: blur(4px);
+  width: 465px;
+  height: 481px;
+}
+.ellipseDiv,
+.landpage2Child1 {
+  position: absolute;
+  top: -660px;
+  left: 247.15px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 26, 26, 0.2) 2.6%,
+    rgba(135, 255, 210, 0.2) 53.13%,
+    rgba(228, 255, 122, 0.2)
+  );
+  filter: blur(300px);
+  width: 777.17px;
+  height: 792.64px;
+  transform: rotate(62.35deg);
+  transform-origin: 0 0;
+}
+.landpage2Child1 {
+  top: 474px;
+  left: 2029.15px;
+}
+.letsBuildThe {
+  position: absolute;
+  top: 152px;
+  left: 576px;
+  font-size: 83px;
+  text-align: left;
+}
+.connect {
+  margin: 0;
+}
+.carbonNegative,
+.connectPeople,
+.groupIcon {
+  position: absolute;
+  top: 557px;
+  left: 1336px;
+}
+.carbonNegative,
+.groupIcon {
+  left: 375px;
+}
+.groupIcon {
+  height: 7.59%;
+  width: 4.27%;
+  top: 41.48%;
+  right: 22.86%;
+  bottom: 50.93%;
+  left: 72.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: normal;
+}
+.diamond1Icon,
+.plant1Icon {
+  position: absolute;
+  top: 433px;
+  left: 904px;
+  width: 112px;
+  height: 112px;
+  object-fit: cover;
+}
+.plant1Icon {
+  top: 448px;
+  left: 438px;
+  width: 82px;
+  height: 82px;
+}
+.decentralized,
+.reduceYourCo2,
+.shareYourElectricity {
+  position: absolute;
+  top: 729px;
+  left: 350px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-darkgray);
+}
+.decentralized,
+.shareYourElectricity {
+  left: 859px;
+}
+.shareYourElectricity {
+  left: 1300px;
+}
+.landpage2 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-kollektif);
+}
