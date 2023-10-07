@@ -30,9 +30,9 @@ const Landpage1 = () => {
       <div className={styles.landpage1Inner} />
       <nav className={styles.homeFaqs}>
         <ul className={styles.menuNav}>
-          <li>HOME</li>
-          <li>FAQs</li>
-          <li>CONTACT</li>
+          <li className={styles.menuNavLine}>HOME</li>
+          <li className={styles.menuNavLine}>FAQs</li>
+          <li className={styles.menuNavLine}>CONTACT</li>
           <li>COMMUNITY</li>
         </ul>
       </nav>
