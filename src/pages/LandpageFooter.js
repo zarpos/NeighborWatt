@@ -15,11 +15,17 @@ const LandpageFooter = () => {
             <div className={styles.enterEmail}>Enter email</div>
             <div className={styles.allRightsReserved}>
                 © All rights reserved crypto Corporation
-            </div>
+            </div>            
             <img className={styles.nw1Icon} alt="" src="/nw-1@2x.png" />
             <div
                 className={styles.faqsContact}
-            >{`FAQs         |         Contact         |         Community         `}</div>
+            >
+                <ul className={styles.navMenu}>
+                    <li><a href="#">FAQs</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Community</a></li>
+                </ul>
+            </div>            
         </div>
     );
 };
