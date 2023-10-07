@@ -74,7 +74,7 @@
   mix-blend-mode: overlay;
 }
 .rectangleDiv {
-  top: 343px;
+  top: 341px;
   left: 1148px;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     linear-gradient(90deg, #87ffd2, #e4ff7a);
@@ -84,7 +84,7 @@
 }
 .subscribe {
   position: absolute;
-  top: 367px;
+  top: 365px;
   left: 1214px;
   -webkit-text-stroke: 0.2px #fff;
 }
