@@ -2,7 +2,14 @@
 body {
   margin: 0;
   line-height: normal;
+  font-family: Kollektif;
 }
+
+@font-face {
+  font-family: 'Kollektif';
+  src: url('./fonts/Kollektif.ttf');
+}
+
 :root {
   /* fonts */
   --font-kollektif: Kollektif;

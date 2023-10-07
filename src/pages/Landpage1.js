@@ -28,7 +28,15 @@ const Landpage1 = () => {
       <div className={styles.landpage1Item} />
       <b className={styles.goGreen}>{`Go green `}</b>
       <div className={styles.landpage1Inner} />
-      <b className={styles.homeFaqs}>HOME | FAQs | CONTACT | COMMUNITY</b>
+      <nav className={styles.homeFaqs}>
+        <ul className={styles.menuNav}>
+          <li>HOME</li>
+          <li>FAQs</li>
+          <li>CONTACT</li>
+          <li>COMMUNITY</li>
+        </ul>
+      </nav>
+      {/* <b className={styles.homeFaqs}>HOME | FAQs | CONTACT | COMMUNITY</b> */}
       <img
         className={styles.logoNeighborwatt11}
         alt=""

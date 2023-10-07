@@ -1,3 +1,7 @@
+ul,
+li{
+  list-style: none;
+}
 .capturaDePantalla20231006 {
   position: absolute;
   top: 0;
@@ -81,11 +85,18 @@
   width: 848px;
   height: 88px;
 }
-.homeFaqs {
+.homeFaqs{
   position: absolute;
   top: 93px;
   left: 1011px;
   color: #f5f5f5;
+}
+
+.menuNav{  
+  display: flex;
+  margin-left: -1rem;  
+  margin-top: 2px;
+  gap: 5rem;
 }
 .logoNeighborwatt11 {
   position: absolute;
