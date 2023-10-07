@@ -28,8 +28,9 @@ const Landpage1 = () => {
       <div className={styles.landpage1Item} />
       <a href="#" className={styles.goGreen}>Go green</a>
       <div className={styles.rectangleParent}>
-        <div className={styles.groupChild} />
-        <b className={styles.recruiteFriends}>Recruite Friends</b>
+        <div className={styles.groupChild}>
+        <a href="#" className={styles.recruiteFriends}>Recruite Friends</a>
+        </div>
       </div>
       <div className={styles.landpage1Inner} />
       <nav className={styles.homeFaqs}>

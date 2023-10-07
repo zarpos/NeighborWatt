@@ -78,6 +78,31 @@ li{
   left: 220px;
   color: var(--color-gray);  
 }
+.groupChild {
+  position: absolute;
+  top: 764px;
+  left: 415px;
+  border-radius: var(--br-6xl);
+  background: linear-gradient(-84.51deg, #e4ff7a, #8af7ce);
+  width: 219px;
+  height: 57px;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.recruiteFriends {
+  /* position: absolute; */  
+  font-weight: bold;
+  z-index: 1;  
+}
+.rectangleParent {
+  width: 219px;
+  height: 57px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray);
+  font-family: var(--font-kollektif);
+}
 .landpage1Inner {
   position: absolute;
   top: 64px;
