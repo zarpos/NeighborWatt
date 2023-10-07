@@ -36,7 +36,6 @@ const Landpage1 = () => {
           <li className={styles.menuNavLine}><a href="#">COMMUNITY</a></li>
         </ul>
       </nav>
-
       <img
         className={styles.logoNeighborwatt11}
         alt="Logo Neighborwatt"
