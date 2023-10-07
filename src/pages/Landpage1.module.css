@@ -70,11 +70,14 @@ li{
   width: 219px;
   height: 57px;
 }
-.goGreen {
+.goGreen {  
   position: absolute;
+  font-weight: bold;
+  z-index: 1;
   top: 778px;
   left: 220px;
   color: var(--color-gray);
+  cursor: pointer !important;
 }
 .landpage1Inner {
   position: absolute;
@@ -94,14 +97,14 @@ li{
 
 .menuNav{  
   display: flex;
-  margin-left: -2rem;  
+  margin-left: -5.8rem;  
   margin-top: 2px;
 }
 
 .menuNavLine{
   margin-right: 2rem;
   margin-left: 2rem;
-  padding-right: 2rem;
+  padding-right: 4rem;
   border-right: 3px solid #fff;
 }
 .logoNeighborwatt11 {

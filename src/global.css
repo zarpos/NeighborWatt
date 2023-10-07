@@ -9,6 +9,10 @@ body {
   font-family: 'Kollektif';
   src: url('./fonts/Kollektif.ttf');
 }
+a{
+  color: inherit;
+  text-decoration: none;
+}
 
 :root {
   /* fonts */

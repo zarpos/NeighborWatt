@@ -26,17 +26,17 @@ const Landpage1 = () => {
       <div className={styles.landpage1Child} />
       <img className={styles.image2Icon} alt="" src="/image-2@2x.png" />
       <div className={styles.landpage1Item} />
-      <b className={styles.goGreen}>{`Go green `}</b>
+      <a href="#" className={styles.goGreen}>Go green</a>
       <div className={styles.landpage1Inner} />
       <nav className={styles.homeFaqs}>
         <ul className={styles.menuNav}>
-          <li className={styles.menuNavLine}>HOME</li>
-          <li className={styles.menuNavLine}>FAQs</li>
-          <li className={styles.menuNavLine}>CONTACT</li>
-          <li>COMMUNITY</li>
+        <a href="#"><li className={styles.menuNavLine}>HOME</li></a>
+        <a href="#"><li className={styles.menuNavLine}>FAQs</li></a>
+        <a href="#"><li className={styles.menuNavLine}>CONTACT</li></a>
+        <a href="#"><li className={styles.menuNavLine}>COMMUNITY</li></a>       
         </ul>
       </nav>
-      {/* <b className={styles.homeFaqs}>HOME | FAQs | CONTACT | COMMUNITY</b> */}
+      
       <img
         className={styles.logoNeighborwatt11}
         alt=""

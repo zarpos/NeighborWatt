@@ -49,10 +49,10 @@ function App() {
   }, [pathname]);
 
   return (
-    <Routes>
-      <Route path="/" element={<Landpage1 />} />
-      <Route path="/" element={<Landpage2 />} />
-    </Routes>
+  <div>
+    <Landpage1/>
+    <Landpage2/>
+  </div>
   );
 }
 export default App;
