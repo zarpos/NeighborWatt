@@ -7,7 +7,7 @@ const Landpage1 = () => {
       <div className={styles.anInnovativeAndContainer}>
         <p
           className={styles.anInnovativeAnd}
-        >{`An innovative and sustainable way to manage your electricity `}</p>
+        >An innovative and sustainable way to manage your electricity</p>
         <p className={styles.anInnovativeAnd}>
           and strengthen bonds with your neighbors
         </p>
@@ -24,7 +24,7 @@ const Landpage1 = () => {
         src="/00a2a9b3c71e4bf0b2961c87fb00e9a8-1@2x.png"
       />
       <div className={styles.landpage1Child} />
-      <img className={styles.image2Icon} alt="" src="/image-2@2x.png" />
+      <img className={styles.image2Icon} alt="capa fondo" src="/image-2@2x.png" />
       <div className={styles.landpage1Item} />
       <a href="#" className={styles.goGreen}>Go green</a>
       <div className={styles.landpage1Inner} />
@@ -39,7 +39,7 @@ const Landpage1 = () => {
 
       <img
         className={styles.logoNeighborwatt11}
-        alt=""
+        alt="Logo Neighborwatt"
         src="/logoneighborwatt-1-1@2x.png"
       />
       <div className={styles.ellipseDiv} />
