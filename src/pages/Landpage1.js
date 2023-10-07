@@ -20,7 +20,7 @@ const Landpage1 = () => {
       </b>
       <img
         className={styles.a2a9b3C71e4bf0B2961c87fb00Icon}
-        alt=""
+        alt="Imagen mundo verde"
         src="/00a2a9b3c71e4bf0b2961c87fb00e9a8-1@2x.png"
       />
       <div className={styles.landpage1Child} />
