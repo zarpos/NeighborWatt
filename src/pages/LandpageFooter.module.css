@@ -1,0 +1,127 @@
+.capturaDePantalla20231006,
+.landpageFooterChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.landpageFooterChild {
+  left: 423.15px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 26, 26, 0.2) 2.6%,
+    rgba(135, 255, 210, 0.2) 53.13%,
+    rgba(228, 255, 122, 0.2)
+  );
+  filter: blur(300px);
+  width: 777.17px;
+  height: 792.64px;
+  transform: rotate(62.35deg);
+  transform-origin: 0 0;
+}
+.image2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1280px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.landpageFooterItem {
+  position: absolute;
+  top: -452px;
+  left: 2052.15px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 26, 26, 0.2) 2.6%,
+    rgba(135, 255, 210, 0.2) 53.13%,
+    rgba(228, 255, 122, 0.2)
+  );
+  filter: blur(300px);
+  width: 777.17px;
+  height: 792.64px;
+  transform: rotate(62.35deg);
+  transform-origin: 0 0;
+}
+.subscribeToThe,
+.yourInboxDeserves {
+  position: absolute;
+  top: 130px;
+  left: 513px;
+  font-size: 65px;
+}
+.subscribeToThe {
+  top: 230px;
+  left: 654px;
+  font-size: 45px;
+}
+.landpageFooterInner,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-35xl);
+}
+.landpageFooterInner {
+  top: 339px;
+  left: 513px;
+  border: 4px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 894px;
+  height: 83px;
+  mix-blend-mode: overlay;
+}
+.rectangleDiv {
+  top: 343px;
+  left: 1148px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(90deg, #87ffd2, #e4ff7a);
+  box-shadow: 1px 4px 11px 4px rgba(135, 255, 210, 0.4);
+  width: 259px;
+  height: 79px;
+}
+.subscribe {
+  position: absolute;
+  top: 367px;
+  left: 1214px;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.allRightsReserved,
+.enterEmail {
+  position: absolute;
+  top: 364px;
+  left: 571px;
+  color: var(--color-gainsboro);
+}
+.allRightsReserved {
+  top: 540px;
+  left: 120px;
+}
+.nw1Icon {
+  position: absolute;
+  top: 528px;
+  left: 927px;
+  width: 67px;
+  height: 54px;
+  object-fit: cover;
+}
+.faqsContact {
+  position: absolute;
+  top: 542px;
+  left: 1309px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gainsboro);
+}
+.landpageFooter {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 615px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-kollektif);
+}

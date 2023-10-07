@@ -19,16 +19,33 @@ a{
   --font-kollektif: Kollektif;
 
   /* font sizes */
-  --font-size-6xl: 25px;
-  --font-size-14xl: 33px;
   --font-size-31xl: 50px;
+  --font-size-64xl: 83px;
+  --font-size-6xl: 25px;
+  --font-size-9xl: 28px;
+  --font-size-26xl: 45px;
+  --font-size-46xl: 65px;
+  --font-size-11xl: 30px;
+  --font-size-101xl: 120px;
+  --font-size-14xl: 33px;
+  --font-size-41xl: 60px;
 
   /* Colors */
   --color-gray: #1a1a1a;
-  --color-white: #fff;
-  --color-darkgray: #9f9f9f;
+  --color-aquamarine-100: #87ffd2;
   --color-aquamarine: rgba(135, 255, 210, 0.08);
+  --color-darkgray: #9f9f9f;
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-whitesmoke: #f5f5f5;
+  --color-darkslategray: rgba(50, 54, 48, 0.3);
 
   /* Border radiuses */
+  --br-35xl: 54px;
   --br-26xl: 45px;
+  --br-30xl: 49px;
+  --br-6xl: 25px;
+
+  /* Effects */
+  --bolita: 7px 0px 14px 1px rgba(135, 255, 210, 0.4);
 }

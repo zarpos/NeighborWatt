@@ -1,0 +1,112 @@
+.capturaDePantalla20231006,
+.image2Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1080px;
+}
+
+.image2Icon {
+    height: 1280px;
+    object-fit: cover;
+    mix-blend-mode: color-dodge;
+}
+
+.landpage3Child {
+    position: absolute;
+    top: -668px;
+    left: 2048.15px;
+    border-radius: 50%;
+    background: linear-gradient(180deg,
+            rgba(26, 26, 26, 0.2) 2.6%,
+            rgba(135, 255, 210, 0.2) 53.13%,
+            rgba(228, 255, 122, 0.2));
+    filter: blur(300px);
+    width: 777.17px;
+    height: 792.64px;
+    transform: rotate(62.35deg);
+    transform-origin: 0 0;
+}
+
+.shareYourEnergy {
+    position: absolute;
+    top: 323px;
+    left: 168px;
+    -webkit-text-stroke: 1px #fff;
+}
+
+.landpage3Item {
+    position: absolute;
+    top: 423px;
+    left: 292.15px;
+    border-radius: 50%;
+    background: linear-gradient(180deg,
+            rgba(26, 26, 26, 0.2) 2.6%,
+            rgba(135, 255, 210, 0.2) 53.13%,
+            rgba(228, 255, 122, 0.2));
+    filter: blur(300px);
+    width: 777.17px;
+    height: 792.64px;
+    transform: rotate(62.35deg);
+    transform-origin: 0 0;
+}
+
+.boostYourEarnings {
+    margin: 0;
+}
+
+.boostYourEarningsContainer {
+    position: absolute;
+    top: 489px;
+    left: 440px;
+    font-size: var(--font-size-31xl);
+    line-height: 115.5%;
+    color: var(--color-darkgray);
+    text-align: right;
+}
+
+.ellipseDiv,
+.landpage3Child1,
+.landpage3Inner {
+    position: absolute;
+    top: 498px;
+    left: 332px;
+    border-radius: 50%;
+    background-color: var(--color-aquamarine-100);
+    box-shadow: var(--bolita);
+    width: 35px;
+    height: 35px;
+}
+
+.ellipseDiv,
+.landpage3Child1 {
+    top: 730px;
+    left: 403px;
+}
+
+.landpage3Child1 {
+    top: 614px;
+    left: 368px;
+}
+
+.phone1Icon {
+    position: absolute;
+    top: 99px;
+    left: 1111px;
+    width: 656px;
+    height: 1023px;
+    object-fit: cover;
+}
+
+.landpage3 {
+    position: relative;
+    background-color: var(--color-gray);
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-64xl);
+    color: var(--color-white);
+    font-family: var(--font-kollektif);
+}

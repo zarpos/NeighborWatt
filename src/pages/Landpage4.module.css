@@ -1,0 +1,262 @@
+.phone2Icon {
+    position: absolute;
+    top: -8px;
+    left: 1111px;
+    width: 656px;
+    height: 433px;
+    object-fit: cover;
+}
+
+.capturaDePantalla20231006,
+.image2Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1080px;
+}
+
+.image2Icon {
+    height: 1280px;
+    object-fit: cover;
+    mix-blend-mode: color-dodge;
+}
+
+.landpage4Child,
+.landpage4Item {
+    position: absolute;
+    top: -616px;
+    left: 310.15px;
+    border-radius: 50%;
+    background: linear-gradient(180deg,
+            rgba(26, 26, 26, 0.2) 2.6%,
+            rgba(135, 255, 210, 0.2) 53.13%,
+            rgba(228, 255, 122, 0.2));
+    filter: blur(300px);
+    width: 777.17px;
+    height: 792.64px;
+    transform: rotate(62.35deg);
+    transform-origin: 0 0;
+}
+
+.landpage4Item {
+    top: 474px;
+    left: 2029.15px;
+}
+
+.b,
+.k,
+.m {
+    position: absolute;
+    top: 423px;
+    left: 1099px;
+}
+
+.k,
+.m {
+    top: 573px;
+    left: 1079px;
+}
+
+.k {
+    top: 725px;
+    left: 992px;
+}
+
+.homesInSolar,
+.kgOfCo2,
+.reducedCarbonEmissions {
+    position: absolute;
+    top: 468px;
+    left: 1378px;
+    font-size: var(--font-size-11xl);
+    color: var(--color-darkgray);
+}
+
+.homesInSolar,
+.kgOfCo2 {
+    top: 627px;
+}
+
+.homesInSolar {
+    top: 779px;
+}
+
+.landpage4Inner {
+    position: absolute;
+    top: 499px;
+    left: 704px;
+    box-shadow: 0 5px 7px rgba(135, 255, 210, 0.42);
+    border-top: 10px solid var(--color-white);
+    box-sizing: border-box;
+    width: 332px;
+    height: 10px;
+    mix-blend-mode: overlay;
+}
+
+.image4Icon,
+.landpage4Child1,
+.lineIcon {
+    position: absolute;
+    top: 640px;
+    left: 521.96px;
+    width: 477.04px;
+    height: 26px;
+    mix-blend-mode: overlay;
+}
+
+.image4Icon,
+.landpage4Child1 {
+    top: 792px;
+    left: 597.94px;
+    width: 350.06px;
+}
+
+.image4Icon {
+    top: 132px;
+    left: 0;
+    width: 1264px;
+    height: 948px;
+    object-fit: cover;
+    mix-blend-mode: color-dodge;
+}
+
+.ellipseDiv,
+.landpage4Child2,
+.landpage4Child3 {
+    position: absolute;
+    top: 483px;
+    left: 694px;
+    border-radius: 50%;
+    background-color: var(--color-aquamarine-100);
+    box-shadow: var(--bolita);
+    width: 35px;
+    height: 35px;
+}
+
+.landpage4Child2,
+.landpage4Child3 {
+    top: 634px;
+    left: 505px;
+}
+
+.landpage4Child3 {
+    top: 786px;
+    left: 588px;
+}
+
+.vectorIcon {
+    position: absolute;
+    top: 337.19px;
+    left: 1680.95px;
+    width: 3.26px;
+    height: 3.71px;
+}
+
+.landpage4Child4,
+.landpage4Child5 {
+    position: absolute;
+    top: 329.59px;
+    left: 1679.32px;
+    width: 15.89px;
+    height: 12.72px;
+}
+
+.landpage4Child5 {
+    top: 328.1px;
+    left: 1689.11px;
+    width: 5.35px;
+    height: 4.5px;
+}
+
+.landpage4Child6,
+.landpage4Child7 {
+    position: absolute;
+    top: 324.83px;
+    left: 1693.65px;
+    width: 5.31px;
+    height: 5.1px;
+}
+
+.landpage4Child7 {
+    top: 325.66px;
+    left: 1696.26px;
+    width: 3.26px;
+    height: 10.18px;
+}
+
+.landpage4Child8,
+.landpage4Child9 {
+    position: absolute;
+    top: 332.26px;
+    left: 1696.25px;
+    width: 3.26px;
+    height: 8.01px;
+}
+
+.landpage4Child9 {
+    top: 340.18px;
+    left: 1692.49px;
+    width: 7.35px;
+    height: 8.44px;
+}
+
+.landpage4Child10 {
+    position: absolute;
+    top: 345.35px;
+    left: 1683.14px;
+    width: 10.89px;
+    height: 3.27px;
+}
+
+.landpage4Child11 {
+    position: absolute;
+    top: 345px;
+    left: 1678.17px;
+    width: 7.43px;
+    height: 3.47px;
+}
+
+.landpage4Child12 {
+    position: absolute;
+    top: 341.93px;
+    left: 1677.82px;
+    width: 14.16px;
+    height: 6.34px;
+}
+
+.landpage4Child13 {
+    position: absolute;
+    top: 328.68px;
+    left: 1682.59px;
+    width: 17.04px;
+    height: 17.65px;
+}
+
+.landpage4Child14 {
+    position: absolute;
+    top: 335.01px;
+    left: 1690.87px;
+    width: 4.2px;
+    height: 3.16px;
+}
+
+.landpage4Child15 {
+    position: absolute;
+    top: 339.28px;
+    left: 1680.35px;
+    width: 19.64px;
+    height: 10.16px;
+}
+
+.landpage4 {
+    position: relative;
+    background-color: var(--color-gray);
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-101xl);
+    color: var(--color-white);
+    font-family: var(--font-kollektif);
+}

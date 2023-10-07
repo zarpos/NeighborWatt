@@ -7,6 +7,9 @@ import {
 } from "react-router-dom";
 import Landpage1 from "./pages/Landpage1";
 import Landpage2 from "./pages/Landpage2";
+import Landpage3 from "./pages/Landpage3";
+import Landpage4 from "./pages/Landpage4";
+import LandpageFooter from "./pages/LandpageFooter";
 
 function App() {
   const action = useNavigationType();
@@ -52,6 +55,9 @@ function App() {
   <div>
     <Landpage1/>
     <Landpage2/>
+    <Landpage3/>
+    <Landpage4/>
+    <LandpageFooter/>
   </div>
   );
 }
