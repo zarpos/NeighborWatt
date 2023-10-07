@@ -76,27 +76,13 @@
   margin: 0;
 }
 .carbonNegative,
-.connectPeople,
-.groupIcon {
+.connectPeople {
   position: absolute;
   top: 557px;
-  left: 1336px;
+  left: 1337px;
 }
-.carbonNegative,
-.groupIcon {
+.carbonNegative {
   left: 375px;
-}
-.groupIcon {
-  height: 7.59%;
-  width: 4.27%;
-  top: 41.48%;
-  right: 22.86%;
-  bottom: 50.93%;
-  left: 72.86%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-  mix-blend-mode: normal;
 }
 .diamond1Icon,
 .plant1Icon {
@@ -128,6 +114,14 @@
 }
 .shareYourElectricity {
   left: 1300px;
+}
+.connect1Icon {
+  position: absolute;
+  top: 448px;
+  left: 1399px;
+  width: 82px;
+  height: 82px;
+  object-fit: cover;
 }
 .landpage2 {
   position: relative;

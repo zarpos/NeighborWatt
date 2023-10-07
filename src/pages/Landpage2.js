@@ -20,12 +20,12 @@ const Landpage2 = () => {
         <p className={styles.connect}>Carbon</p>
         <p className={styles.connect}>negative</p>
       </b>
-      <img className={styles.groupIcon} alt="" src="/group.svg" />
       <img className={styles.diamond1Icon} alt="" src="/diamond-1@2x.png" />
       <img className={styles.plant1Icon} alt="" src="/plant-1@2x.png" />
       <div className={styles.reduceYourCo2}>Reduce your CO2</div>
       <div className={styles.decentralized}>Decentralized</div>
       <div className={styles.shareYourElectricity}>Share your electricity</div>
+      <img className={styles.connect1Icon} alt="" src="/Connect.png" />
     </div>
   );
 };
