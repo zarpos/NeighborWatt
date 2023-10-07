@@ -27,6 +27,10 @@ const Landpage1 = () => {
       <img className={styles.image2Icon} alt="capa fondo" src="/image-2@2x.png" />
       <div className={styles.landpage1Item} />
       <a href="#" className={styles.goGreen}>Go green</a>
+      <div className={styles.rectangleParent}>
+        <div className={styles.groupChild} />
+        <b className={styles.recruiteFriends}>Recruite Friends</b>
+      </div>
       <div className={styles.landpage1Inner} />
       <nav className={styles.homeFaqs}>
         <ul className={styles.menuNav}>
