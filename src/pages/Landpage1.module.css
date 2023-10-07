@@ -97,15 +97,19 @@ li{
 
 .menuNav{  
   display: flex;
-  margin-left: -5.8rem;  
+  margin-left: -3rem;  
   margin-top: 2px;
 }
 
 .menuNavLine{
-  margin-right: 2rem;
-  margin-left: 2rem;
-  padding-right: 4rem;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  padding-right: 3rem;
   border-right: 3px solid #fff;
+}
+
+.menuNavLine:nth-last-child(1){  
+  border-right: 0px;
 }
 .logoNeighborwatt11 {
   position: absolute;

@@ -30,19 +30,19 @@ const Landpage1 = () => {
       <div className={styles.landpage1Inner} />
       <nav className={styles.homeFaqs}>
         <ul className={styles.menuNav}>
-        <a href="#"><li className={styles.menuNavLine}>HOME</li></a>
-        <a href="#"><li className={styles.menuNavLine}>FAQs</li></a>
-        <a href="#"><li className={styles.menuNavLine}>CONTACT</li></a>
-        <a href="#"><li className={styles.menuNavLine}>COMMUNITY</li></a>       
+          <li className={styles.menuNavLine}><a href="#">HOME</a></li>
+          <li className={styles.menuNavLine}><a href="#">FAQs</a></li>
+          <li className={styles.menuNavLine}><a href="#">CONTACT</a></li>
+          <li className={styles.menuNavLine}><a href="#">COMMUNITY</a></li>
         </ul>
       </nav>
-      
+
       <img
         className={styles.logoNeighborwatt11}
         alt=""
         src="/logoneighborwatt-1-1@2x.png"
       />
-      <div className={styles.ellipseDiv} />      
+      <div className={styles.ellipseDiv} />
     </div>
   );
 };
