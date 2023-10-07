@@ -28,10 +28,10 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/landpage2":
-        title = "";
-        metaDescription = "";
-        break;
+      // case "/landpage2":
+      //   title = "";
+      //   metaDescription = "";
+      //   break;
     }
 
     if (title) {
@@ -51,7 +51,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Landpage1 />} />
-      <Route path="/landpage2" element={<Landpage2 />} />
+      <Route path="/" element={<Landpage2 />} />
     </Routes>
   );
 }

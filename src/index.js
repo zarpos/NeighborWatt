@@ -6,9 +6,17 @@ import { BrowserRouter } from "react-router-dom";
 import "./global.css";
 
 const container = document.getElementById("root");
+const container2 = document.getElementById("root2");
 const root = createRoot(container);
+const root2 = createRoot(container2);
 
 root.render(
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>
+);
+
+root2.render(
   <BrowserRouter>
     <App />
   </BrowserRouter>

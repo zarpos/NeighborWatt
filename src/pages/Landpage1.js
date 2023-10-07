@@ -42,7 +42,7 @@ const Landpage1 = () => {
         alt=""
         src="/logoneighborwatt-1-1@2x.png"
       />
-      <div className={styles.ellipseDiv} />
+      <div className={styles.ellipseDiv} />      
     </div>
   );
 };
