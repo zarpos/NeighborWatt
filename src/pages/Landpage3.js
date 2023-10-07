@@ -4,7 +4,7 @@ const Landpage3 = () => {
     return (
         <div className={styles.landpage3}>
             <div className={styles.capturaDePantalla20231006} />
-            <img className={styles.image2Icon} alt="" src="/image-2@2x.png" />
+            <img className={styles.image2Icon} alt="Capa fondo" src="/image-2@2x.png" />
             <div className={styles.landpage3Child} />
             <b className={styles.shareYourEnergy}>Share your energy</b>
             <div className={styles.landpage3Item} />
@@ -18,7 +18,7 @@ const Landpage3 = () => {
             <div className={styles.landpage3Inner} />
             <div className={styles.ellipseDiv} />
             <div className={styles.landpage3Child1} />
-            <img className={styles.phone1Icon} alt="" src="/phone-1@2x.png" />
+            <img className={styles.phone1Icon} alt="Movil parte 1" src="/phone-1@2x.png" />
         </div>
     );
 };
