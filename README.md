@@ -6,10 +6,18 @@ NeighborWatt is a blockchain-based energy exchange system that allows neighbors 
 
 ## Features and benefits:
 
-### Stable and fair price: Energy prices are based on supply and demand, ensuring that users get a fair price for their energy.
-### Reduced carbon footprint: By preventing energy waste, NeighborWatt helps reduce the community's carbon footprint.
-### Cost savings: Users can save money by buying energy from their neighbors at a lower price than the grid.
-### Sense of community: NeighborWatt fosters a sense of community by allowing neighbors to collaborate with each other.
+### Stable and fair price: 
+Energy prices are based on supply and demand, ensuring that users get a fair price for their energy.
+
+### Reduced carbon footprint: 
+By preventing energy waste, NeighborWatt helps reduce the community's carbon footprint.
+
+### Cost savings: 
+Users can save money by buying energy from their neighbors at a lower price than the grid.
+
+### Sense of community: 
+NeighborWatt fosters a sense of community by allowing neighbors to collaborate with each other.
+
 
 ## Instructions for installation and use:
 
